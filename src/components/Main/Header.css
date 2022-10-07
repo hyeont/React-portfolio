@@ -9,6 +9,10 @@ ul {
     left: 0;
 }
 
+.Navbar_title{
+    font-size: 24px;
+}
+
 .Navbar_contents{
     display: flex;
     width: 100%;
