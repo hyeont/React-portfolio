@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "main";
+    src: url("./fonts/Anton-Regular.ttf");
+}
+@font-face {
+    font-family: "dis1";
+    src: url("./fonts/BlackHanSans-Regular.ttf");
+}
+
+@font-face {
+    font-family: "dis2";
+    src: url("./fonts/Dongle-Regular.ttf");
+}
+
+
+.App{
+    font-family: 'main';
+}

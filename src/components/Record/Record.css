@@ -1,0 +1,22 @@
+.record{
+    background-color: #82A0AA;
+}
+
+.record_discription{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 30px;
+    font-family: 'dis2';
+    font-size: 20px;
+}
+.record_place{
+    padding: 20px;
+    padding-bottom: 0px;
+    font-size: 30px;
+}
+
+.record_period {
+    padding: 30px;
+}
+

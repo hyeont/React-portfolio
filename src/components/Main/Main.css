@@ -1,5 +1,8 @@
+
 .main{
     background: url(./background.png);
+    background-position: center;
+    background-repeat: no-repeat;
     background-size: cover;
 }
 
@@ -12,10 +15,12 @@
 }
 .intro_name{
     font-size: 64px;
+    font-family: 'main';
 }
 
 .intro_jht{
-    font-size: 20px;
+    font-size: 22px;
+    color: rgb(86, 80, 80);
 }
 
 .line{
@@ -27,4 +32,10 @@
 }
 .intro_btn{
     margin-top: 30px;
+}
+.next{
+    padding: 20px;
+}
+.next :hover{
+    cursor: pointer;
 }
