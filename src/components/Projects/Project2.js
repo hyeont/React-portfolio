@@ -23,7 +23,7 @@ const Project2 = () => {
           <div className="project_function">
             Github
             <div className="project_function__content">
-              <a href="https://github.com/hyeont/photo">
+              <a href="https://github.com/hyeont/photo" target="blank">
                 • https://github.com/hyeont/photo
               </a>
             </div>
@@ -32,7 +32,10 @@ const Project2 = () => {
           <div className="project_function">
             URL
             <div className="project_function__content">
-              <a href="https://hyeont.github.io/photo/%EB%AF%BC/main/index.html">
+              <a
+                href="https://hyeont.github.io/photo/%EB%AF%BC/main/index.html"
+                target="blank"
+              >
                 • https://hyeont.github.io/photo/%EB%AF%BC/main/index.html
               </a>
             </div>
