@@ -10,3 +10,11 @@
 .aboutme_label, .aboutme_value{
     white-space: nowrap;
 }
+@media (max-width:580px){
+    .items{
+        display: flex;
+        padding: 40px 40px;
+        align-items: center;
+        font-size: 12px;
+    }
+}

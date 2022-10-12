@@ -8,7 +8,7 @@ const Project1 = () => {
       </div>
       <div className="project_discription">
         <div className="project_name">포트폴리오 웹사이트</div>
-        <div className="project_period">2022.09</div>
+        <div className="project_period">2022.10 ~</div>
         <div className="project_line"></div>
         <div className="project_description">
           React학습 겸 포트폴리오 용도로 제작한 웹사이트입니다. 웹사이트를

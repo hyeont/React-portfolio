@@ -39,3 +39,17 @@
 .next :hover{
     cursor: pointer;
 }
+
+@media (max-width:580px){
+    .intro_jht{
+        font-size: 14px;
+        color: rgb(86, 80, 80);
+    }
+
+    .intro_name{
+        font-size: 43px;
+        font-family: 'main';
+    }
+
+
+}

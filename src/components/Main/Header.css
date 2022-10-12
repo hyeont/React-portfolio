@@ -33,3 +33,23 @@ ul {
     margin-left: 10px;
     cursor: pointer;
 }
+
+@media (max-width:580px){
+    .navbar_title{
+        font-size: 16px;
+        cursor: pointer;
+    }
+
+    .navbar_list li{
+        padding: 2px 4px;
+        font-size: 11px;
+        margin-left: 0px;
+        margin-right: 5px;
+        cursor: pointer;
+    }
+    
+.navbar_contents{
+    height: 3rem;
+    justify-content: space-evenly;
+}
+}

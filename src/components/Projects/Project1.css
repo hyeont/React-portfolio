@@ -1,6 +1,7 @@
 .project_1{
     display: flex;
     justify-content: center;
+    width: auto;
 }
 .project_period{
     font-family: 'dis2';
@@ -11,6 +12,7 @@
     flex-direction: column;
     font-family: 'dis2';
     font-size: 20px;
+    width: auto;
 }
 .project_functions{
     padding-top: 20px;
@@ -38,4 +40,10 @@
 .project_function__content a {
     text-decoration: none;
     color: inherit;
+}
+
+@media (max-width:580px){
+    .thumbnail{
+        display: none;
+    }
 }

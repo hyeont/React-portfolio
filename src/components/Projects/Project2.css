@@ -1,6 +1,7 @@
 .project_2{
     display: flex;
     justify-content: center;
+    width: auto;
 }
 
 .thumbnail2{
@@ -16,3 +17,15 @@
     height: 300px;
 }
 
+@media (max-width:580px){
+    .thumbnail2{
+        display: none;
+    }
+    .project_discription{
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+        font-family: 'dis2';
+        font-size: 20px;
+    }
+}
