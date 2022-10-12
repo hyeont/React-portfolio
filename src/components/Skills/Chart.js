@@ -1,4 +1,5 @@
 import { ResponsivePie } from "@nivo/pie";
+import "./Chart.css";
 
 const Chart = () => {
   const handle = {
