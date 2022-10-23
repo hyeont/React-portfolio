@@ -28,20 +28,6 @@ const Project2 = () => {
               </a>
             </div>
           </div>
-
-          <div className="project_function2">
-            URL
-            <div className="project_function__content">
-              <a
-                href="https://hyeont.github.io/photo/%EB%AF%BC/main/index.html"
-                target="blank"
-              >
-                <div className="url">
-                  • https://hyeont.github.io/photo/%EB%AF%BC/main/
-                </div>
-              </a>
-            </div>
-          </div>
         </div>
       </div>
     </div>
